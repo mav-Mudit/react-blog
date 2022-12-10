@@ -47,7 +47,7 @@ code {
 #blog-by {
   text-align: center;
   font-style: italic;
-  margin-bottom: 20px;
+  /* margin-bottom: 100px; */
 }
 .post-detail h1 {
   text-align: center;
